@@ -1,0 +1,10 @@
+list=[10,20,233,34]
+print(list)
+list.append(13)
+print(list)
+list.insert(3,123)
+print(list)
+list.remove(233)
+print(list)
+list.pop(2)
+print(list)
